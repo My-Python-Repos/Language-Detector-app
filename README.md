@@ -1,4 +1,5 @@
-### Language detector Application
+# This is Language Name detector Application developed to showcause the stream lit.
+## Just copy paste the language & you will get the answere.
 
 We are using thie application to detect the name of the language from its fonts.
 
